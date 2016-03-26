@@ -1,8 +1,7 @@
 # imports
 
 def main():
-	print("Happy")
-	print("test")
+	print("Testing")
 	return
 
 # call main
